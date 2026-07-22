@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I’m Nischal Dhakal 👋</h1>
+<h1 align="center">Hello, I’m Nischal Dhakal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=React+%26+Node.js+Developer;Building+practical+web+products;Focused+on+clean+code+and+real+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=React+·+Node.js+Developer;Fintech+and+business+applications;Engineering+for+real+use" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,18 +17,18 @@
 </p>
 
 <p align="center">
-  I build web products that feel smooth, reliable, and useful. I enjoy turning ideas into systems that people actually enjoy using.
+  Product-focused developer building practical web applications with clean interfaces, dependable APIs, and a focus on user workflows.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 I’m currently working as a developer building fintech and business-focused products with React, Redux, and REST APIs.
-- 🎓 I hold a B.Sc. in Computer Science & IT from Samriddhi College.
-- 📦 I’ve published two npm packages: <strong>termilog-js</strong> and <strong>bs-ad-date-converter</strong>.
-- 🧠 I’m comfortable moving between frontend and backend work, especially around Node.js, Express, MongoDB, and API design.
-- 🤝 I care about practical solutions, clean code, and building things that make day-to-day work easier.
+- I develop fintech and business applications using React, Redux, TypeScript, Node.js, Express, and MongoDB.
+- I have a B.Sc. in Computer Science & IT from Samriddhi College.
+- I have published two npm packages: <strong>termilog-js</strong> and <strong>bs-ad-date-converter</strong>.
+- I work across frontend and backend domains, with an emphasis on clear architecture and reliable delivery.
+- I prefer practical solutions that improve daily processes and scale well over time.
 
 ---
 
@@ -91,22 +91,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nischal720&show_icons=true&theme=radical&hide_border=true" alt="nischal720's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nischal720&theme=radical&hide_border=true" alt="nischal720's streak stats" height="165"/>
+  <img src="https://img.shields.io/github/followers/nischal720?style=for-the-badge&label=Followers&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/nischal720?style=for-the-badge&label=Stars&logo=github" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/repo-size/nischal720/nischal720?style=for-the-badge&label=Repo+Size&logo=github" alt="Repo size" />
+  <img src="https://img.shields.io/github/last-commit/nischal720/nischal720?style=for-the-badge&label=Last+Commit&logo=git" alt="Last commit" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal720&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nischal720&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nischal720&style=flat-square&color=blueviolet" alt="Profile views"/>
