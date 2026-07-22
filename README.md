@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I’m Nischal Dhakal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=React+and+Node.js+Developer;Fintech+applications;Engineering+for+real+use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=React+and+Node.js+Developer;Go+programming+and+Fintech;Engineering+for+real+use" alt="Typing SVG" />
 </p>
 
 <p align="center">
