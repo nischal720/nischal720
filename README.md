@@ -80,6 +80,14 @@
 | Human Resource Management System | Employee records, attendance flow, and HR reporting dashboards | React, HTML, CSS, Java |
 | [**e_commerce_backend**](https://github.com/nischal720/e_commerce_backend) | Backend APIs for products, users, and orders with JWT-based auth | Node.js, Express, MongoDB, JWT |
 | [**pet-shop-api**](https://github.com/nischal720/pet-shop-api) | Backend service for pet listings and role-based access management | Node.js, Express, MongoDB, JWT |
+| [**book-management-system**](https://github.com/nischal720/book-management-system) | A structured book management platform for organizing and managing book records efficiently | React, Node.js, Express, MongoDB |
+| [**dashboard-portal**](https://github.com/nischal720/dashboard-portal) | A dashboard-focused project for presenting data and business insights clearly | React, Tailwind, Charts |
+| [**portfolio-front-end**](https://github.com/nischal720/portfolio-front-end) | A polished frontend portfolio experience with a modern UI | React, Tailwind |
+| [**file-upload-api**](https://github.com/nischal720/file-upload-api) | An API project focused on upload workflows and file handling | Node.js, Express, MongoDB |
+| [**jwt-auth**](https://github.com/nischal720/jwt-auth) | Authentication-focused work using JWT-based secure access patterns | Node.js, Express, JWT |
+| [**library-management**](https://github.com/nischal720/library-management) | A management app for books, records, and borrowing-related workflows | React, Node.js, Express, MongoDB |
+| [**golang-movies-crud**](https://github.com/nischal720/golang-movies-crud) | A Go-based CRUD API for managing movie records | Go, Gin, REST API |
+| [**golang-student-api**](https://github.com/nischal720/golang-student-api) | A lightweight Go API for student-related operations | Go, REST API |
 
 ---
 
