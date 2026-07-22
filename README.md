@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I’m Nischal Dhakal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=React+·+Node.js+Developer;Fintech+and+business+applications;Engineering+for+real+use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=React+and+Node.js+Developer;Fintech+applications;Engineering+for+real+use" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,8 @@
 
 ## 🚀 About Me
 
-- I develop fintech and business applications using React, Redux, TypeScript, Node.js, Express, and MongoDB.
+- I develop fintech and business applications using React, Next.js, Redux, TypeScript, Node.js, Express, NestJS, Go, and MongoDB.
+- I also build backend services and data-driven apps using MySQL, MongoDB, and clean API design.
 - I have a B.Sc. in Computer Science & IT from Samriddhi College.
 - I have published two npm packages: <strong>termilog-js</strong> and <strong>bs-ad-date-converter</strong>.
 - I work across frontend and backend domains, with an emphasis on clear architecture and reliable delivery.
