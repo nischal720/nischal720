@@ -80,7 +80,7 @@
 | Human Resource Management System | Employee records, attendance flow, and HR reporting dashboards | React, HTML, CSS, Java |
 | [**e_commerce_backend**](https://github.com/nischal720/e_commerce_backend) | Backend APIs for products, users, and orders with JWT-based auth | Node.js, Express, MongoDB, JWT |
 | [**pet-shop-api**](https://github.com/nischal720/pet-shop-api) | Backend service for pet listings and role-based access management | Node.js, Express, MongoDB, JWT |
-| [**book-management-system**](https://github.com/nischal720/book-management-system) | A structured book management platform for organizing and managing book records efficiently | React, Node.js, Express, MongoDB |
+| [**book-management-system**](https://github.com/nischal720/book-management-system) | A structured book management platform for organizing and managing book records efficiently | GO, MUX, MySql |
 | [**dashboard-portal**](https://github.com/nischal720/dashboard-portal) | A dashboard-focused project for presenting data and business insights clearly | React, Tailwind, Charts |
 | [**portfolio-front-end**](https://github.com/nischal720/portfolio-front-end) | A polished frontend portfolio experience with a modern UI | React, Tailwind |
 | [**file-upload-api**](https://github.com/nischal720/file-upload-api) | An API project focused on upload workflows and file handling | Node.js, Express, MongoDB |
